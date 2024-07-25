@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4365c381.css",
+    "main.js": "/static/js/main.a690b67b.js",
+    "static/media/lift.png": "/static/media/lift.50f5eb34b6e55aaee774.png",
+    "static/media/kickstart.png": "/static/media/kickstart.10f8ccc2b3b0bfc49c46.png",
+    "static/media/pg.png": "/static/media/pg.2ae3eb1d07062da74514.png",
+    "static/media/Fullstack_Developer_Ubaid.pdf": "/static/media/Fullstack_Developer_Ubaid.3dfff8babbf1aaf15cc2.pdf",
+    "static/media/jobboard.png": "/static/media/jobboard.40184892f61860ea8660.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.5e36c05b44690f7a2200.svg",
+    "index.html": "/index.html",
+    "main.4365c381.css.map": "/static/css/main.4365c381.css.map",
+    "main.a690b67b.js.map": "/static/js/main.a690b67b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4365c381.css",
+    "static/js/main.a690b67b.js"
+  ]
+}
